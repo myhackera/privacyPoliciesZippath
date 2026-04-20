@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Zippath</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #222;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p>Last updated: April 2026</p>
+
+    <p>Welcome to <strong>Zippath</strong>. Your privacy is important to us. This Privacy Policy explains how we handle your information.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>Zippath does not collect any personally identifiable information from users.</p>
+
+    <h2>2. How We Use Information</h2>
+    <p>Since we do not collect user data, we do not use or process any personal information.</p>
+
+    <h2>3. Third-Party Services</h2>
+    <p>Zippath may use third-party services (such as analytics or ads in the future). These services may collect information as per their own privacy policies.</p>
+
+    <h2>4. Data Security</h2>
+    <p>We value your trust and strive to use commercially acceptable means to protect your information. However, no method of transmission over the internet is 100% secure.</p>
+
+    <h2>5. Children’s Privacy</h2>
+    <p>Zippath does not knowingly collect personal information from children under the age of 13.</p>
+
+    <h2>6. Changes to This Policy</h2>
+    <p>We may update our Privacy Policy from time to time. Any changes will be posted on this page.</p>
+
+    <h2>7. Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy, contact us at:</p>
+    <p><strong>bharatappslab@gmail.com</strong></p>
+
+</body>
+</html>
